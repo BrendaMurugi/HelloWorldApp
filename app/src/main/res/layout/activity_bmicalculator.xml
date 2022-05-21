@@ -26,6 +26,7 @@
         android:ems="10"
         android:hint="Enter weight in Kg"
         android:inputType="numberDecimal"
+        android:minHeight="48dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/imgWeight"
         app:layout_constraintTop_toTopOf="parent" />
@@ -50,6 +51,7 @@
         android:ems="10"
         android:hint="Enter height in cm"
         android:inputType="number"
+        android:minHeight="48dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/imgHeight"
         app:layout_constraintTop_toBottomOf="@+id/etWeight" />
@@ -81,4 +83,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tvBmi" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

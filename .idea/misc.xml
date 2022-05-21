@@ -5,7 +5,9 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_baseline_fitness_center_24.xml" value="0.2015" />
         <entry key="app/src/main/res/layout/activity_bmicalculator.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_calculator.xml" value="0.19270833333333334" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_send_money.xml" value="0.22" />
       </map>
     </option>
   </component>
